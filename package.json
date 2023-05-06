@@ -1,0 +1,23 @@
+{
+  "name": "industrial-color-theme",
+  "displayName": "Industrial Color Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "IndSys",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": ["vscode", "theme", "dark", "industrial", "cyberpunk"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Industrial Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Industrial Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
