@@ -11,6 +11,7 @@
     "Themes"
   ],
   "keywords": ["vscode", "theme", "dark", "industrial", "cyberpunk"],
+  "repository": {"type": "git", "url": "git+https://github.com/brancs/vscode-theme-industrial.git"},
   "contributes": {
     "themes": [
       {
