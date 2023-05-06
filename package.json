@@ -3,6 +3,7 @@
   "displayName": "Industrial Color Theme",
   "description": "",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "publisher": "IndSys",
   "engines": {
     "vscode": "^1.78.0"
@@ -11,7 +12,7 @@
     "Themes"
   ],
   "keywords": ["vscode", "theme", "dark", "industrial", "cyberpunk"],
-  "repository": {"type": "git", "url": "git+https://github.com/brancs/vscode-theme-industrial.git"},
+  "repository": {"type": "git", "url": "https://github.com/brancs/vscode-theme-industrial.git"},
   "contributes": {
     "themes": [
       {
