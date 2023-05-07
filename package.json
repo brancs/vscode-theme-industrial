@@ -2,7 +2,7 @@
   "name": "industrial-color-theme",
   "displayName": "Industrial Color Theme",
   "description": "",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "icon": "images/icon.png",
   "publisher": "IndSys",
   "engines": {
