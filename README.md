@@ -12,8 +12,8 @@ Based on:
 
 ### Screenshots
 
-![Screenshot general](https://github.com/brancs/vscode-theme-industrial/blob/main/images/screenshot-1.jpeg)
+![Screenshot general](/images/screenshot-1.jpeg)
 
-![Screenshot widgets](https://github.com/brancs/vscode-theme-industrial/blob/main/images/screenshot-2.jpeg)
+![Screenshot widgets](/images/screenshot-2.jpeg)
 
-![Screenshot integrated terminal](https://github.com/brancs/vscode-theme-industrial/blob/main/images/screenshot-3.jpeg)
+![Screenshot integrated terminal](/images/screenshot-3.jpeg)
